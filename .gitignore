@@ -13,4 +13,4 @@ dataset/valid/*.jpg
 rf_detr/videos/
 test_results_final/
 
-
+rf_detr/_annotations.coco.json
