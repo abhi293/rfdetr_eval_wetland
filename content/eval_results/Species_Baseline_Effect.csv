@@ -1,0 +1,14 @@
+Bird Species,mAP@50,Recall,Status
+White Wagtail,0,Detected (Backbone Only),Needs Fine-Tuning
+Glossy Ibis,0,Detected (Backbone Only),Needs Fine-Tuning
+Squacco Heron,0,Detected (Backbone Only),Needs Fine-Tuning
+Black-winged Stilt,0,Detected (Backbone Only),Needs Fine-Tuning
+Yellow-legged Gull,0,Detected (Backbone Only),Needs Fine-Tuning
+Northern Shoveler,0,Detected (Backbone Only),Needs Fine-Tuning
+Black-headed Gull,0,Detected (Backbone Only),Needs Fine-Tuning
+Eurasian Coot,0,Detected (Backbone Only),Needs Fine-Tuning
+Little Ringed Plover,0,Detected (Backbone Only),Needs Fine-Tuning
+Eurasian Moorhen,0,Detected (Backbone Only),Needs Fine-Tuning
+Eurasian Magpie,0,Detected (Backbone Only),Needs Fine-Tuning
+Gadwall,0,Detected (Backbone Only),Needs Fine-Tuning
+Mallard,0,Detected (Backbone Only),Needs Fine-Tuning

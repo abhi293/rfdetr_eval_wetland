@@ -1,0 +1,10 @@
+Metric,COCO Baseline Value
+AP @ [IoU=0.50:0.95],0.006
+AP @ [IoU=0.50],0.007
+AP @ [IoU=0.75],0.006
+AR @ [maxDets=1],0.15
+AR @ [maxDets=10],0.309
+AR @ [maxDets=100],0.351
+AR @ [Small Objects],0.5
+AR @ [Medium Objects],0.305
+AR @ [Large Objects],0.392

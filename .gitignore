@@ -1,0 +1,16 @@
+*.pth
+**/*.pth
+*.jpg
+**/*.jpg
+*.mp4
+**/*.mp4
+
+
+dataset/
+dataset/test/*.jpg
+dataset/train/*.jpg
+dataset/valid/*.jpg
+rf_detr/videos/
+test_results_final/
+
+
